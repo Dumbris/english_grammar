@@ -1,0 +1,15 @@
+= English
+Algis Dumbris <a.dumbris@gmail.com>
+v1.0
+:toc: left
+:imagesdir: assets/images
+
+== Intro
+
+== Advanced grammar in use
+
+TODO: Give details
+//graph guide http://plantuml.sourceforge.net/PlantUML_Language_Reference_Guide.pdf
+include::adv_grammar_inuse.adoc[]
+
+// vim: set syntax=asciidoc:

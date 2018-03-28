@@ -1,6 +1,36 @@
 :imagesdir: assets/images
 
 == Other ways of talking about the future
+=== A
+* be about to + infinitive
+* be on the verge of ... / brink of ... / point of ... (+ -ing) or NOUN
+** _People *are on the verge of* starvation as the drought continues._
+* be due to (+ infinitive)
+* be sure / bound to (+ infinitive)
+** _The company's chief executive *is due to* retire next year, but following today's announcement
+of further losses she *is sure to* be asked to leave sooner._
+* be set to (+ infinitive)
+** _Her new film *is set to* be a great success._
+
+=== B
+* some verbs + to-infinitive
+** _We *guarantee to refund* your money if you are dissatisfied with the computer._
+* present simple + to-infinitive or present continuous + to-infinitive
+** _I *aim to get* to Bangkok by the end of June._
+** _I*'m aiming to get* to Bangkok by the end of June._
+
+(aim, agree, expect, hope, intend, mean, plan, promise, propose, resolve, undertake, want)
+
+* be looking + to-infinitive
+** _We*'re looking to create* 3,000 jobs in the city over the nex year._
+
+=== C
+* verbs in A and B are used with past tense forms
+** _The new management *had been looking* to create 20 new jobs._
+
+=== D
+* shall (I, we), shan't
+* will, won't
 
 
 == The future seen from the (future in the past)

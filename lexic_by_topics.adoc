@@ -1,0 +1,33 @@
+:imagesdir: assets/images
+
+=== Body language
+* Eyes wide open = surprise
+* Eyes and mouth open = horror, fright 
+* To blink = shutting both eyes
+* To wink = shutting one eye. 
+* To frown = to wrinkle the forehead
+* To grin = smiling (showing your teeth) 
+* To pull one's tongue   
+* To clench one's teeth
+* To hush = Keep quiet! 
+* To point (at)
+* Thumbs down = disapproval 
+* Thumbs up = Congratulations! 
+* To raise one's hand = desire to speak
+* To shrug one's shoulders = ignorance or insolence
+* To wave  
+
+.International Problems with Body Language
+* Nodding head
+* Silense. In China or Japan it can be a sign of agreement or femininity
+* Personal space
+* Eye Contact
+
+.Eye accesing cues (mind reading, eyes are the window to the soul)
+* Visual constracted images (up and to the right)
+* Auditory constracted (to the right)
+* Visual memory (up and to the left)
+* Auditory memory
+* Kinestetic fellings
+* Internal self talk
+

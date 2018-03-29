@@ -6,6 +6,13 @@ v1.0
 
 == Intro
 
+=== Study Plannel
+* Participle II
+* Infinitive
+** Инфинитивов (активного залога) в английском языке 4 вида: простой (kill или to kill), продолженный (be killing), перфектный (have killed) и перфектно-продолженный (have been killing). 
+* Согласование времен
+* Conditional Sentences
+
 == Advanced grammar in use
 
 TODO: Give details

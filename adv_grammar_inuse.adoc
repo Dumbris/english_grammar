@@ -35,4 +35,45 @@ of further losses she *is sure to* be asked to leave sooner._
 
 == The future seen from the (future in the past)
 
+=== TODO
+
+
+== Can, could, be able to and be allowed to
+
+=== B
+* can, could, be able to
+** If we talk about a single achivement, rather than a general ability in the past, 
+we usually use *be able to* rather then *could*
+*** _Sophie *could* play the flute quite well._
+*** _She swam strongly and *was able to* cross the river easily, even though it was swollen by the heavy rain._
+** *could* is more natural than *be able to*
+*** in negative sentences
+*** with verbs of senses: feel, hear, see, smell, taste. 
+*** with verbs of'thinking': believe, decide, remember, understand
+
+=== C
+* Can and could: possibility
+** theoretircal possibility => could
+** if sonething is possible and actually happens => can
+*** _It could/can be expensive to keep a cat._
+** if something is theoretically or actually impossible => can't (not couldn't)
+*** _The doctor can't see you this morning._
+
+=== D
+* can == very real possibility
+* could == is less likely
+
+=== E
+* to talk about permission for *one particular*  past action, we use *was / were allowed to*,
+but not *could*
+** _Anyone could fish in the lake._
+** _Although he didn't have a ticket, Ned *was allowed to* come in._
+* In negative we can use *couldn't* or *wasn't / weren't allowed to*
+
+
+== Verbs types
+* Main verb
+* Axilary verb
+* Linking verb
+
 

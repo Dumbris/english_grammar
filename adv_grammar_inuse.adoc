@@ -71,6 +71,66 @@ but not *could*
 * In negative we can use *couldn't* or *wasn't / weren't allowed to*
 
 
+== Wiil, would and used to
+=== TODO
+
+
+== May and might
+
+=== A
+* May and might have simular meaning, but we prefer *may* in academic or formal language
+
+=== B
+* Don't use *may* to ask questions about possibility. Instead use *could(n't)* or *be likely*
+** _Could it be that you don't want to leave?_
+** _Are you likely to be in Spain again this summer?_
+* Rather formal
+** _Might they be persuaded to change thier minds?_
+* Formally asking for permission
+** _May I help you?_
+
+=== C
+* *Might* (not 'may') + *bare infinitive* about what was typically the case in the past.
+** _During the war, the police *might arrest* you for criticising the government._
+** _Years ago children *might be sent* down mines at the age of six. (passive form)_
+
+=== D
+* When person or thing compensates to some extend for limitation by having another characteristic, we can use
+*may / might not + bare infinitive ... but ...* or *may / might not have + past participle ... but ...* 
+** _The painting *may not be* a masterpiece, *but* the colours are remarkable._
+** _She *might not have danced* very gracefully, *but* she had a lot of energy and enthusiasm._
+
+=== E
+* *may / might* (not 'can') + *have* + *past paticiple* and *may / might* (not 'can') + *be* + *-ing*
+to talk about possible events
+** _Do you think Laura *may / minght have completed* the report by now? (past)_
+** _His maths *may / might have improved* by the time the exam comes round. (future)_
+** _Marco inn't in his office. He *may / might be working* at home today. (present)_
+
+* *may / might have been + -ing*
+
+
+== Must and Have (got) to
+
+=== A
+* *Must / must not* in formal rules
+* *must / mustn't* to propose a future arrangement
+** _We *must* get together more often_
+* *I must* to remind ourselves
+** _*I must* charge my phone._
+
+=== B
+* To draw a conclusion about -
+** must + have + past participle
+** must be + -ing
+** must be going to
+
+=== C
+
+=== D
+
+
+
 == Verbs types
 * Main verb
 * Axilary verb

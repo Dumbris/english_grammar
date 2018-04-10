@@ -3,3 +3,7 @@
 * Is either “can” or “could” more polite 
 ** https://english.stackexchange.com/a/21440
 ** In English, the past tense FORM of both lexical verbs [jump, run, write, etc] and the Historical past tense FORM of modal verbs are used to perform a number of different tasks: politeness/deference/doubt/non- real or counterfactual/... when it comes to the modals, it is the HISTORICAL past tense FORMS which are used, again, to effect a greater sense of politeness, deference/softness/... It's vitally important to remember that this use is only a use of the past tense FORM, it is NOT a true past tense, in the sense of time, use!!
+
+* shown and showed
+** "showed" is the simple past, "shown" is the past participle.
+*** _The first TV program shown in Japan was "Tetsuwan Atom"_

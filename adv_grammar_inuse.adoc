@@ -130,6 +130,63 @@ to talk about possible events
 === D
 
 
+== Linking verbs: be, appear, seem; become, get...
+=== A
+* _Clara *is* a doctor_
+* _She *seemed* unable to concentrate_
+* 'being'
+** be, keep, prove, remain, stay
+* 'becoming'
+** become, come, end up, grow, turn out
+* 'seemeing'
+** appear, look, seem, sound
+
+=== B
+* After appear, look, prove, seem, turn out we can include or omit *to be*:
+** _The room *appears (to be)* brighter than when I last saw it_
+* *to be* usually included before adjectives: alive, alone, asleep, awake and before -ing forms of verbs
+** _I didn't go in because *she appeared to be* asleep._
+
+=== C
+* *become* - process of change (also come, get, go, grow, turn)
+** We use *get* rather than become:
+*** in informal speech
+*** before *difficult, ill, interested, pregnant, suspicious, unhappy, worried*
+*** in phrases: *get changed (clothes), get dressed, get married
+* We prefer *become* to talk about abstaract or technical process
+** _He *became* recognised as an expert._
+* use *become* if there is a noun phrase after
+** _Dr Morales *became* an adviser to the government._
+
+=== D
+* Use *go* or *turn*, when we talk about colours changing
+** _The traffic lights *turned / went* green and I pulled away._
+* use *go* to talk about changes:
+** go deaf / blind / bald
+** go bad / off / mouldy / rotten
+** go bust
+** go dead
+** go wrong
+** But: get ill, get old, get tired
+* After the verbs *come, get, grow* we can use a *to-infinitive*
+** _I eventually *came / grew* to appreciate his work._
+
+
+== Forming passive sentences 1
+
+=== A
+* Verbs such as *give* take both direct object (DO) and indirect object (IO) in two patterns *V + IO + DO* or *V + DO + prepositional + IO*
+**  _Alice gave us that vase._ (active)
+*** _We were given that vase._ (passive)
+** _Alice gave that vase to us._ (active)
+*** _That vase was given (to) us._ (passive)
+* Also verbs: 
+** *award, hand, lend, offer, send, throw* (= 'giving' verbs);
+** *ask, read, teach* (= 'telling' verbs)
+
+* Verbs that can't be followed by *IO + DO* in the active have only one of these passive forms:
+** *announce, demonstrate, describe, introduce, mention, propose, report, suggest*
+
 
 == Verbs types
 * Main verb
